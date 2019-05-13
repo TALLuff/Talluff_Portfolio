@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#navEls {
+  display: flex;
+  justify-content: space-around;
+}
+
+#navBar {
+  position: fixed;
+}
